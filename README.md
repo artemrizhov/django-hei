@@ -11,7 +11,7 @@ Installation
 ------------
 
 1. Install application:
-`pip install -e git://github.com/semargal/django-cms.git@placeholder_by_lang#egg=django-hei`
+`pip install -e git://github.com/artemrizhov/django-hei.git#egg=django-hei`
 2. Add application to INSTALLED_APPS
 
 Configuration
