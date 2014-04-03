@@ -1,10 +1,9 @@
 Django-Hei!
 ==========
 
-Hides technical info on Django error page when DEBUG=True, while still lets you
+Hides technical info on Django error page when DEBUG=True, still lets you
 quickly access it.
-This saves your customer from scary error messages while let's you debug the
-app.
+This saves your customer from scary error messages while let you debug the app.
 
 Useful for demonstration before release. Don't use on production!
 
@@ -18,7 +17,7 @@ Installation
 Configuration
 -------------
 
-The feature is activated by default. Set `HIDE_TECHNICAL_ERROR_INFO=True` in
+The feature is activated by default. Set `HIDE_TECHNICAL_ERROR_INFO=False` in
 your local settings to disable it.
 
 Usage
