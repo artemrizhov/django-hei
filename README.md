@@ -5,6 +5,7 @@ Hides technical info on Django error page when DEBUG=True, while still lets you
 quickly access it.
 This saves your customer from scary error messages while let's you debug the
 app.
+
 Useful for demonstration before release. Don't use on production!
 
 Installation
